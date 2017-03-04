@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+
 int main(void) {
 	char card[10];
 	char names[15][6] = { "two","deuce","three","trey","four","five","six","seven","eight","nine","ten","jack","queen","king","ace" };
